@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple blog project in Ruby on Rails. Used for testing purposes.
 
-Things you may want to cover:
+If you want to download and test, some parts of the application require authentication, for that you may use the credentials below.
 
-* Ruby version
+user: zedascouves
+pass: 123456
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
